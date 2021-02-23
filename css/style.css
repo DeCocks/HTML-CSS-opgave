@@ -1,0 +1,51 @@
+
+
+body
+{
+    width: 1024px;
+    font-family: Verdana;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+header
+{
+    color: #000000;
+    background-color: #aba5a5;
+    text-align: right;
+    clear: both;
+    overflow: auto;
+}
+
+h1
+{
+    color: #f50f04;
+}
+
+h2
+{
+    color: #17c50c;
+}
+
+footer
+{
+    text-align: center;
+    background-color: #62a367;
+    height: 40px;
+    overflow: hidden;
+}
+
+#td1
+{
+    background-color: #5bc163;
+    vertical-align: top;
+    color: #f7f1f1;
+}
+
+#img1
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #5725cf;
+    width: 890px;
+}
+
